@@ -1,0 +1,10 @@
+.multiple{
+  size: 50px;
+  align-items: center;
+  background-color: black;
+}
+
+.d-block w-100{
+  height:10%;
+  width:10%;
+}

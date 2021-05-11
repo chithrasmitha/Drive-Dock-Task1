@@ -1,0 +1,44 @@
+.home{
+  width:90vw;
+  height:200px;
+  background:#fff;
+  color:black;
+  font-size: 5px;
+  margin:0 10px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+.App{
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h4{
+ text-align: left;
+ padding-left: 5%;
+ text-decoration: underline;
+}
+
+img{
+  height: 200px;
+  width:300px;
+  padding-left: 40%;
+}
+
+.image{
+  background-color:gray;
+  display: flex;
+}
+
+.belownav{
+  display:flexbox;
+  justify-content: space-around;
+  align-items: center;
+  min-height:10vh;
+  background:gray;
+  color:white;
+  padding-left:20%;
+  list-style: none;
+  text-align: left;
+}

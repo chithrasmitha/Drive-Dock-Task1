@@ -1,0 +1,42 @@
+.main-footer{
+  color:white;
+  background:black;
+  padding-top:3em;
+  position:relative;
+  bottom:0;
+  width:100%;
+  padding-bottom: 0%;
+ 
+}
+
+
+
+.list-unstyled{
+  width:60%;
+  display:flexbox;
+  justify-content:space-around;
+  align-items:center;
+  list-style: none;
+  }
+
+  .row{
+    display:flex;
+    width:100%;
+    
+  }
+
+  .col-sm{
+    text-align: center;
+    width:100%;
+  }
+
+  .col{
+    width:100%;
+  }
+
+  .connect{
+    padding-left:0%;
+    width:90px;
+    height: 50px;
+  }
+    
